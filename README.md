@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hanzzz123&theme=dark&hide_border=false)<br/>
 
-### 😂 Random Dev Meme
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Hanzzz123&icon=0&color=0)](https://visitcount.itsvg.in)
 
